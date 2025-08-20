@@ -13,5 +13,6 @@ Aplikacja Symfony 5.4 integrująca się z publicznym API GoREST.
 - Node.js + npm
 
 ## Konfiguracja:
-W pliku .env dopisać swój token API:
+W pliku .env.* dopisać swój token API:
 GOREST_API_TOKEN=twój_token
+
